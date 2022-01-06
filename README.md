@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![] (images/login screen.png)
+![] (login screen.png)
 
 ## Getting Started
 
