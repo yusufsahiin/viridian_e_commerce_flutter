@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![login] (login screen.png)
+![login] (viridian_e_commerce_flutter/login screen.png)
 
 ## Getting Started
 
